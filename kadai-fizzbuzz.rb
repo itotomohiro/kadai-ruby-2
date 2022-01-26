@@ -1,0 +1,5 @@
+def FizzBuzz()
+  
+end
+
+FizzBuzz()
